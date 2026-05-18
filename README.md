@@ -31,7 +31,7 @@ terraform destroy
 ## Project Report
 
 Full write-up with architecture breakdown, deployment screenshots, and key learnings:
-👉 [View Project Report](https://nidinshah.com)
+👉 (https://nidinshah.com)
 
 ## Key Learnings
 
